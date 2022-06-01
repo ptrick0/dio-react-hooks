@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Projeto criado para o curso de React Hooks da DIO
+
+A aplicação consiste em uma tela onde é possível solicitar uma frase "zen" aleatória
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
